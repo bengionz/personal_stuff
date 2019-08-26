@@ -1,2 +1,2 @@
-# MATH4610
-All of my code for MATH 4610
+# personal_stuff
+This is all my stuff for myself
